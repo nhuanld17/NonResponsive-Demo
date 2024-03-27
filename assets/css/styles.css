@@ -98,7 +98,7 @@
 /* SECTION ONE  */
 
 .section-one{
-    background-image: url("/Project2/assets/images/background1.jpg");
+    background-image: url("../images/background1.jpg");
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
